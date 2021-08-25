@@ -2,4 +2,4 @@ This is a simple readme file
 
 ##HEADING
 
-changed something
+I hope this doesn't cause conflicts
